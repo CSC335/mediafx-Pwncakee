@@ -3,7 +3,7 @@ package PlaySongDemo;
 /**
  * This code will play any song assuming that file is in folder songfiles. 
  * 
- * Programmer Rick Mercer
+ * Programmer Rick Mercer and Aman Bhatia
  */
 import java.io.File;
 import java.net.URI;
